@@ -1,0 +1,3 @@
+IG_UI_EN = {
+    IGUI_IRPD_ConfirmDeleteScene = "Are you sure you want to delete this scene?"
+}

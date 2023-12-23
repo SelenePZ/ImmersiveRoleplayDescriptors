@@ -1,0 +1,22 @@
+ItemName_EN = {
+    ItemName_RPDescriptors.ExclamationRed = "Red Exclamation",
+    ItemName_RPDescriptors.ExclamationOrange = "Orange Exclamation",
+    ItemName_RPDescriptors.ExclamationYellow = "Yellow Exclamation",
+    ItemName_RPDescriptors.ExclamationGreen = "Green Exclamation",
+    ItemName_RPDescriptors.ExclamationBlue = "Blue Exclamation",
+    ItemName_RPDescriptors.ExclamationPink = "Pink Exclamation",
+    ItemName_RPDescriptors.ExclamationPurple = "Purple Exclamation",
+    ItemName_RPDescriptors.ExclamationWhite = "White Exclamation",
+    ItemName_RPDescriptors.ExclamationGrey = "Grey Exclamation",
+    ItemName_RPDescriptors.ExclamationBlack = "Black Exclamation"
+    ItemName_RPDescriptors.QuestionRed = "Red Investigation",
+    ItemName_RPDescriptors.QuestionOrange = "Orange Investigation",
+    ItemName_RPDescriptors.QuestionYellow = "Yellow Investigation",
+    ItemName_RPDescriptors.QuestionGreen = "Green Investigation",
+    ItemName_RPDescriptors.QuestionBlue = "Blue Investigation",
+    ItemName_RPDescriptors.QuestionPink = "Pink Investigation",
+    ItemName_RPDescriptors.QuestionPurple = "Purple Investigation",
+    ItemName_RPDescriptors.QuestionWhite = "White Investigation",
+    ItemName_RPDescriptors.QuestionGrey = "Grey Investigation",
+    ItemName_RPDescriptors.QuestionBlack = "Black Investigation"
+}

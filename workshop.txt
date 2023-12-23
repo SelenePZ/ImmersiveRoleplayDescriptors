@@ -1,0 +1,44 @@
+version=1
+id=3120687527
+title=Immersive Roleplay Descriptors
+description=Addon to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2897228813]Roleplay Descriptors[/url] that lets players create them more easily and shows popups in-world.
+description=
+description=[b]This mod requires [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2897228813]Roleplay Descriptors[/url] in order to function![/b]
+description=
+description=[h1]New Menu Options[/h1]
+description=
+description=[b]Create Exlamation / Investigation[/b]
+description=[list]
+description=    [*] This menu option is available to all players and lets them create a new exclamation or question mark RP descriptor.
+description=    [*] It opens up the text editor and then immediately lets them place the scene descriptor into the world.
+description=[/list]
+description=
+description=[b]Investigate Scene[/b]
+description=[list]
+description=    [*] This option is a shortcut and more immersive title for the act of "reading" a roleplay descriptor.
+description=    [*] It exists both on the item as well as in-world, so players do not have to go into the inventory to read a descriptor but can do so by just right-clicking in-world.
+description=[/list]
+description=
+description=[b]Scene Options[/b]
+description=[list]
+description=    [*] Roleplay Descriptors can be deleted easily through a menu option.
+description=    [*] For editing a descriptor, it forces it to be picked up into the player's inventory first, to work around the PZ bug where in-world changes to notebooks/descriptors are not properly saved.
+description=[/list]
+description=
+description=[h1]New Popups[/h1]
+description=
+description=[b]Scene Popup[/b]
+description=[list]
+description=    [*] Roleplay Descriptors will now display their title as a popup message above your character once the character is close enough and facing towards it.
+description=    [*] This makes it easy to determine what a descriptor is in regards to without having to first "read"/investigate the scene.
+description=[/list]
+description=
+description=[h1]Contact[/h1]
+description=
+description=[b]Website[/b]: https://mods.twelveiterations.com/
+
+description=[b]Discord[/b]: https://discord.gg/VAfZ2Nau6j
+
+description=[b]Patreon[/b]: https://www.patreon.com/BlayTheNinth
+tags=Build 41;Misc;Multiplayer
+visibility=public

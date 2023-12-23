@@ -1,0 +1,11 @@
+ContextMenu_EN = {
+    ContextMenu_IRPD_CreateExclamation = "Create Exclamation",
+    ContextMenu_IRPD_CreateInvestigation = "Create Investigation",
+    ContextMenu_IRPD_PlaceScene = "Place Scene",
+    ContextMenu_IRPD_MoveScene = "Move Scene",
+    ContextMenu_IRPD_SceneOptions = "Scene Options",
+    ContextMenu_IRPD_PickupSceneForEdit = "Pickup Scene for Edit",
+    ContextMenu_IRPD_EditScene = "Edit Scene",
+    ContextMenu_IRPD_InvestigateScene = "Investigate Scene",
+    ContextMenu_IRPD_DeleteScene = "Delete Scene"
+}
