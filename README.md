@@ -2,6 +2,8 @@
 
 This is a mod for Project Zomboid that acts as an addon to [Roleplay Descriptors](https://steamcommunity.com/sharedfiles/filedetails/?id=2897228813).
 
+- Download via [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3120687527)
+
 ## New Menu Options
 
 ### Create Exlamation / Investigation
