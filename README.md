@@ -30,6 +30,6 @@ This is a mod for Project Zomboid that acts as an addon to [Roleplay Descriptors
 
 ## Contact
 
-**Website**: https://mods.twelveiterations.com/
-**Discord**: https://discord.gg/VAfZ2Nau6j
-**Patreon**: https://www.patreon.com/BlayTheNinth
+- **Website**: https://mods.twelveiterations.com/
+- **Discord**: https://discord.gg/VAfZ2Nau6j
+- **Patreon**: https://www.patreon.com/BlayTheNinth
