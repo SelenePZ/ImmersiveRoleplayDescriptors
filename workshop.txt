@@ -36,9 +36,7 @@ description=
 description=[h1]Contact[/h1]
 description=
 description=[b]Website[/b]: https://mods.twelveiterations.com/
-
 description=[b]Discord[/b]: https://discord.gg/VAfZ2Nau6j
-
 description=[b]Patreon[/b]: https://www.patreon.com/BlayTheNinth
 tags=Build 41;Misc;Multiplayer
 visibility=public
