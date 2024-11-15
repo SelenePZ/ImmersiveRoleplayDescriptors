@@ -6,7 +6,7 @@ This is a mod for Project Zomboid that acts as an addon to [Roleplay Descriptors
 
 ## New Menu Options
 
-### Create Exlamation / Investigation
+### Create Exclamation / Investigation
 
 - This menu option is available to all players and lets them create a new exclamation or question mark RP descriptor.
 - It opens up the text editor and then immediately lets them place the scene descriptor into the world.
